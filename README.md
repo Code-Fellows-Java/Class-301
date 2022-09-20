@@ -12,3 +12,4 @@ I was born and raised in Nashville, TN. I was a paratrooper in the army for almo
 **Table of Contents**
 
 - [Day 1](Day-1.md)
+- [Day 2](Day-2.md)
