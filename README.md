@@ -19,3 +19,4 @@ I was born and raised in Nashville, TN. I was a paratrooper in the army for almo
 - [Day 6](Day-6.md)
 - [Day 7](Day-7.md)
 - [Day 8](Day-8.md)
+- [Day 9](Day-9.md)
